@@ -12,7 +12,7 @@ The purpose of creating this software is to practice using JavaScript for basic 
 
 # Software Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/04pPDYJ_Ig0)
 
 # Development Environment
 
